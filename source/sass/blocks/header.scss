@@ -105,7 +105,10 @@
 
 .header-contact {
   @media (min-width: 320px) {
+    & a {
+    font-family: "Arial", sans-serif;
 
+    }
   }
 
   @media (min-width: 768px) {
@@ -459,8 +462,9 @@
   top: 0;
   right: 0;
   border: none;
-  width: 65px;
-  height: 65px;
+  outline: none;
+  width: 60px;
+  height: 60px;
   background: none;
   cursor: pointer;
 

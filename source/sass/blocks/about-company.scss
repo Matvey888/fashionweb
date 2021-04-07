@@ -93,7 +93,10 @@
     }
 
     @media (min-width: 768px) {
-
+      width: 240px;
+      height: 240px;
+      top: 20%;
+      left: 20px;
     }
 
     @media (min-width: 1024px) {
@@ -137,7 +140,10 @@
     }
 
     @media (min-width: 768px) {
-
+      width: 240px;
+      height: 240px;
+      top: 20%;
+      right: 20px;
     }
 
     @media (min-width: 1024px) {
@@ -258,5 +264,3 @@
     font-size: 28px;
   }
 }
-
-

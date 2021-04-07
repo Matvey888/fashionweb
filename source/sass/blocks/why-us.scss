@@ -12,7 +12,8 @@
   }
 
   @media (min-width: 768px) {
-
+    padding-top: 10px;
+    // padding-bottom: 10px;
   }
 
   @media (min-width: 1024px) {
@@ -107,7 +108,7 @@
   }
 
   @media (min-width: 768px) {
-
+    // margin-left: 30px;
   }
 
   @media (min-width: 1024px) {
@@ -139,7 +140,10 @@
     }
 
     @media (min-width: 768px) {
-
+      left: 10%;
+      top: -10px;
+      width: 185px;
+      height: 180px;
     }
 
     @media (min-width: 1024px) {
@@ -167,7 +171,7 @@
   display: flex;
 
   background-color: #4f4f4f;
-  font-family: sans-serif;
+  font-family: "Arial", sans-serif;
 
   color: #fff;
   text-decoration: none;
@@ -180,7 +184,8 @@
   }
 
   @media (min-width: 768px) {
-
+    width: 25%;
+    justify-content: center;
   }
 
   @media (min-width: 1024px) {
@@ -210,7 +215,7 @@
 }
 
 .views-block p {
-  font-family: sans-serif;
+  font-family: "Arial", sans-serif;
 
   position: relative;
   background-color: transparent;
@@ -226,7 +231,9 @@
   }
 
   @media (min-width: 768px) {
-
+    max-width: 40%;
+    text-align: center;
+    margin-left: 30px;
   }
 
   @media (min-width: 1024px) {

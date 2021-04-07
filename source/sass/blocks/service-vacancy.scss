@@ -259,7 +259,7 @@
     }
 
     @media (min-width: 768px) {
-
+      font-size: 18px;
     }
 
     @media (min-width: 1024px) {
@@ -316,8 +316,11 @@
     }
 
     @media (min-width: 768px) {
-
+      top: 10%;
+      right: -50%;
     }
+
+  }
 
     @media (min-width: 1024px) {
       top: 10%;
@@ -334,7 +337,7 @@
       top: 110px;
       right: -500px;
     }
-  }
+
 
   &--fly::before {
     background-image: url("../img/vacancy_img4.png");
@@ -384,7 +387,7 @@
   }
 
   @media (min-width: 768px) {
-
+    font-size: 18px;
   }
 
   @media (min-width: 1024px) {
@@ -413,7 +416,7 @@
   }
 
   @media (min-width: 768px) {
-
+    font-size: 18px;
   }
 
   @media (min-width: 1024px) {

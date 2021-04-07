@@ -13,7 +13,7 @@
 
 .team-part h2 {
   color: black;
-  font-family: sans-serif;
+  font-family: "OpenSans CondLight", sans-serif;
   background-image: url("../img/h2_team.png");
   background-position: 50% 45%;
   background-repeat: no-repeat;
@@ -24,7 +24,7 @@
   }
 
   @media (min-width: 768px) {
-
+    font-size: 24px;
   }
 
   @media (min-width: 1024px) {
@@ -37,6 +37,7 @@
 
   @media (min-width: 1800px) {
     // padding-top: 40px;
+    font-size: 48px;
   }
 }
 
@@ -135,7 +136,7 @@
     }
 
     @media (min-width: 768px) {
-
+      margin-left: 100px;
     }
 
     @media (min-width: 1024px) {
@@ -163,7 +164,10 @@
       }
 
       @media (min-width: 768px) {
-
+        top: -30px;
+        left: -100px;
+        width: 100px;
+        height: 100px
       }
 
       @media (min-width: 1024px) {
@@ -197,7 +201,7 @@
     }
 
     @media (min-width: 768px) {
-
+      margin-left: 160px;
     }
 
     @media (min-width: 1024px) {
@@ -227,7 +231,10 @@
       }
 
       @media (min-width: 768px) {
-
+        top: -10px;
+        left: -110px;
+        width: 110px;
+        height: 110px;
       }
 
       @media (min-width: 1024px) {
@@ -262,7 +269,7 @@
   }
 
   @media (min-width: 768px) {
-
+    margin-bottom: 20px;
   }
 
   @media (min-width: 1024px) {
@@ -291,7 +298,7 @@
     }
 
     @media (min-width: 768px) {
-
+      margin-left: 150px;
     }
 
     @media (min-width: 1024px) {
@@ -321,7 +328,10 @@
       }
 
       @media (min-width: 768px) {
-
+        top: -30px;
+        left: -100px;
+        width: 100px;
+        height: 100px;
       }
 
       @media (min-width: 1024px) {
@@ -355,7 +365,7 @@
     }
 
     @media (min-width: 768px) {
-
+      margin-left: 150px;
     }
 
     @media (min-width: 1024px) {
@@ -385,7 +395,10 @@
       }
 
       @media (min-width: 768px) {
-
+        top: -25px;
+        left: -110px;
+        width: 110px;
+        height: 110px;
       }
 
       @media (min-width: 1024px) {
@@ -422,7 +435,7 @@
   }
 
   @media (min-width: 768px) {
-
+    margin-left: 180px;
   }
 
   @media (min-width: 1024px) {
@@ -453,7 +466,10 @@
     }
 
     @media (min-width: 768px) {
-
+      top: -30px;
+      left: -100px;
+      width: 100px;
+      height: 100px;
     }
 
     @media (min-width: 1024px) {
