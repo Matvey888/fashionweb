@@ -51,6 +51,8 @@
 
   @media (min-width: 1800px) {
     background-position: 50% 55%;
+    font-size: 40px;
+    line-height: 42px;
   }
 }
 
@@ -119,7 +121,7 @@
     position: absolute;
 
     background-image: url("../img/vacancy_collapsed.png");
-    transform: rotate(180deg);
+    transform: rotate(0deg);
     background-position: 0 0;
     background-repeat: no-repeat;
     background-size: contain;
@@ -157,7 +159,7 @@
 
   &.active {
     &::before {
-      transform: rotate(0deg);
+      transform: rotate(180deg);
     }
   }
 

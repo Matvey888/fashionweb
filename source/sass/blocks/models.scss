@@ -86,7 +86,7 @@
   }
 
   @media (min-width: 1800px) {
-    width: 1800px;
+    max-width: 1800px;
     height: 960px;
   }
 }
@@ -159,5 +159,3 @@
     line-height: 38px;
   }
 }
-
-
