@@ -1,3 +1,7 @@
+// html {
+//   font-family: "Comfortaa", "Open Sans Condensed", "OpenSans CondLight", "Open Sans", "HelveticaNeueCondensedBold", "Arial", sans-serif;
+// }
+
 .page-body {
   // position: relative;
   margin: 0;
@@ -6,10 +10,19 @@
   // grid-template-rows: min-content 1fr min-content;
 }
 
+a {
+  font-family: "HelveticaNeueCondensedBold", sans-serif;
+}
+
+p {
+  font-family: "Arial" ,sans-serif;
+}
+
 h2 {
   background-color: transparent;
   text-align: center;
   text-transform: uppercase;
+  font-family: "OpenSans CondLight", sans-serif;
   font-size: 50px;
 
   color: gray;

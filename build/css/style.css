@@ -434,10 +434,17 @@ template {
   margin: 0;
   padding: 0; }
 
+a {
+  font-family: "HelveticaNeueCondensedBold", sans-serif; }
+
+p {
+  font-family: "Arial" ,sans-serif; }
+
 h2 {
   background-color: transparent;
   text-align: center;
   text-transform: uppercase;
+  font-family: "OpenSans CondLight", sans-serif;
   font-size: 50px;
   color: gray;
   background-position: 50% 125%;
@@ -634,7 +641,7 @@ h2 {
   color: #414141; }
   @media (min-width: 1024px) {
     .main-menu a {
-      font-size: 16px;
+      font-size: 15px;
       line-height: 18px;
       margin-right: 10px; } }
   @media (min-width: 1300px) {
